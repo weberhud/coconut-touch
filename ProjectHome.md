@@ -1,0 +1,1 @@
+Coconut touch is a small simulator using mouse click/drag to simulator multi-touch tuio messages. With transparent windows frame it able to allow user test/debug their TUIO based multi-touch application precisely.
